@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+nav a{
+    font-weight:bolder;
+}
+.form-container{
+margin: 25% auto 25%;
+}
+
+label{
+    font-weight:bold;
+}
+
+.task{
+    margin-right:5%!important;
+}
+
+.task-container{
+    margin:5% auto 5%;
+    width:50%;
+    background-color:grey;
+}
+.to-do-body{
+    background-image:url(images/todobackground.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.submit-button{
+    background-color:#302921 !important;
+}
+.list-container{
+    background-color:#403224;
+}
+li{
+    color:#514a2e;
+    font-weight:bold;
+}
