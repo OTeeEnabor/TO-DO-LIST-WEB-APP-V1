@@ -39,6 +39,7 @@ label{
     font-weight:bolder;
 }
 li{
+    list-style-type:none;
     color:#514a2e;
     font-weight:bold;
 }
