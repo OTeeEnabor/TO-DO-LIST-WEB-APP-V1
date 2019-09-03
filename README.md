@@ -1,29 +1,17 @@
 # TO-DO-LIST-WEB-APP-V1
 
 ## About / Synopsis
-
 This project uses HTML,CSS, PHP and jQuery to build a to-do-list web application.
 A user adds tasks to a list of tasks that they want to complete.
-This is a working prototype.
-<!-- * What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support -->
-# Project Title
-One Paragraph of project description goes here
+This is a working prototype.>
+
 ## Getting Started
 This application as used using WAMP Server as a development server to test the functionality of the program.
 ### Prerequisites
 What things you need to install the software and how to install them
-Install WAMP SERVER (or a development server of your preference)
 
-Give examples
-### Installing
-A step by step series of examples that tell you how to get a development env running
-Say what the step will be
-Give the example
-And repeat
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+Install WAMP SERVER (or a development server of your preference) with PHP and a code editor to code in HTML,CSS and PHP.
+
 ## Running the tests
 Explain how to run the automated tests for this system
 ### Break down into end to end tests
