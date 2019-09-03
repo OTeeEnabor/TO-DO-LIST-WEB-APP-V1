@@ -33,6 +33,11 @@ label{
 .list-container{
     background-color:#403224;
 }
+.list-container > li >a {
+    background-color:#96793d;
+    color: #020001;
+    font-weight:bolder;
+}
 li{
     color:#514a2e;
     font-weight:bold;
